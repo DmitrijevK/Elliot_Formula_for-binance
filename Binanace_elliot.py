@@ -1,4 +1,4 @@
-import binance
+from binance.client import Client
 import pandas as pd
 
 # create class BinanceClient
